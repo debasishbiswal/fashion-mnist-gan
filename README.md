@@ -8,7 +8,20 @@ A simple Generative Adversarial Network (GAN) built with **PyTorch** that learns
 
 ---
 
-## ✨ Features
+## Motivation
+
+I built this project to deepen my understanding of Generative Adversarial Networks (GANs) by applying them to a fun and familiar dataset — Fashion‑MNIST.  
+Instead of sticking with handwritten digits (MNIST), I wanted to experiment with generating images of clothing items like t‑shirts, shoes, and bags.  
+This project helped me practice:
+- Setting up and training GANs from scratch in PyTorch,
+- Visualizing how a generator improves over time,
+- And exploring how GANs can be used for creative image generation tasks.
+
+Feel free to fork this project, experiment with different architectures, or try other datasets!
+
+---
+
+## Features
 ✅ Trains a basic GAN using linear layers  
 ✅ Automatically downloads and loads the Fashion‑MNIST dataset  
 ✅ Visualizes **real vs fake images** after each epoch  
@@ -17,7 +30,7 @@ A simple Generative Adversarial Network (GAN) built with **PyTorch** that learns
 
 ---
 
-## 📦 Requirements
+## Requirements
 Install these dependencies before running:
 
 ```bash
